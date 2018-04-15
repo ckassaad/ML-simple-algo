@@ -4,14 +4,14 @@ The classes are created independently of each other (except k-means and form for
 
 
 ## Algorithms descriptions:
-# Supervised learning:
+### Supervised learning:
 * linear_regression:
 * logistic_regression:
 
-# Unsupervised learning:
+### Unsupervised learning:
 * k_means:
 * forme_forte:
 * anomaly_detecion:
 
-# Semi Supervised learning:
+### Semi Supervised learning:
 * rco_training:
